@@ -1,0 +1,8 @@
+* 36f5815 - 2312770 - Le Nhat Tien (Fri Oct 16 16:06:13 2026 +0700): Tiet 4: them log GitHub Actions
+* 504e702 - 2312770 - Le Nhat Tien (Fri Oct 16 16:01:02 2026 +0700): Tiet 5: them upload artifact bao cao coverage
+* 5c13b07 - 2312770 - Le Nhat Tien (Fri Oct 16 15:50:13 2026 +0700): Tiet 4: sua loi cu phap
+* 0c3072d - 2312770 - Le Nhat Tien (Fri Oct 16 15:47:43 2026 +0700): Tiet 4: co tinh tao loi cu phap
+* 02217ec - 2312770 - Le Nhat Tien (Fri Oct 16 15:45:18 2026 +0700): Tiet 3: them test Mocking, coverage tren 85%
+* 4c5950a - 2312770 - Le Nhat Tien (Fri Oct 16 15:43:05 2026 +0700): Tiet 3: them Linter va Quality Gate 80%
+* ea08db0 - 2312770 - Le Nhat Tien (Fri Oct 16 15:40:23 2026 +0700): Tiet 2: them CI pipeline co ban
+* a47d46f - 2312770 - Le Nhat Tien (Fri Oct 16 15:37:59 2026 +0700): Tiet 1: ma nguon ban dau
